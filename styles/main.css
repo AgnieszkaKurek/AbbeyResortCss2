@@ -168,6 +168,9 @@ figure {
 }
 .mainNav a:hover {
   color: #dddbd8;
+  transition: 1s color, 1s letter-spacing, 4s font-famil;
+  letter-spacing: .2em;
+  font-family: serif;
 
 }
 .mainNav span.additional {
